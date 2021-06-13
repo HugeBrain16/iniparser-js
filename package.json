@@ -1,0 +1,16 @@
+{
+  "name": "@hugebrain16/iniparser",
+  "description": "An iniparser.",
+  "version": "0.1.0",
+  "author": "hugebrain16",
+  "main": "iniparser.js",
+  "license": "MIT",
+  "homepage": "https://github.com/HugeBrain16/iniparser-js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HugeBrain16/iniparser-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HugeBrain16/iniparser-js/issues"
+  }
+}
