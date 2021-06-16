@@ -94,7 +94,7 @@ function parse_section(text) {
     }
 }
 
-function parse(string) {
+const parse = function(string) {
 	var result = {};
 
 	var str = string.split(/\r?\n/);
@@ -140,3 +140,5 @@ function parse(string) {
 
 	return result;
 }
+
+module.exports.parse = parse;
