@@ -1,7 +1,7 @@
 {
   "name": "@hugebrain16/iniparser",
   "description": "An iniparser.",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "author": "hugebrain16",
   "main": "iniparser.js",
   "license": "MIT",
